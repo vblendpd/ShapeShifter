@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) github.com/vblendpd
+
 function StartGame(canvas) {
   'use strict';
 
