@@ -6,8 +6,6 @@ and Elastic.
 Mouse   : Move
 LButton : Shoot
 ```
-<div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/1.jpg" style="width: 32%; max-width: 32%;">
-  <img src="screenshots/2.jpg" style="width: 32%; max-width: 32%;">
-  <img src="screenshots/3.jpg" style="width: 32%; max-width: 32%;">
-</div>
+<img src="screenshots/1.jpg"/><br>
+<img src="screenshots/2.jpg"/><br>
+<img src="screenshots/3.jpg"/>
